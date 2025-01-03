@@ -1,0 +1,10 @@
+name = "HeatmapDigitizer"
+uuid = "9dfadbe8-f316-4ea1-8ca4-f33eade2f03d"
+authors = ["kcarloni <kcarloni@g.harvard.edu>"]
+version = "0.1.0"
+
+[deps]
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+
+[compat]
+Images = "0.26.1"
