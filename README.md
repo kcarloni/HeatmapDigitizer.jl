@@ -10,4 +10,4 @@ preliminary steps:
 - (4) crop the heatmap to remove the black boundary
 
 
-then call `M = digitize_map( map_path, scale_path, (nx, ny), (vmin, vmax) )`
+then call `M = digitize_map( cropped_image_path, cropped_cbar_path, (nx, ny), (vmin, vmax) )`
